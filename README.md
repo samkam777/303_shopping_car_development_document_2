@@ -16,7 +16,7 @@ minipc搭建rikirobot小车环境
 		sudo service ssh restart
 		OK,正常登录！！！
 
-二、ubuntu16.04安装ros kinetic
+二、minipc及树莓派的ubuntu16.04安装ros kinetic
 	1、百度 ros kinetic
 
 	找到这个：kinetic/Installation/Ubuntu - ROS Wiki 就这个
