@@ -49,6 +49,7 @@ minipc搭建rikirobot小车环境
 		拉过来的目录都要进行权限解放：在home目录下：chmod -R 777 catkin_ws/  以及 chmod -R 777 Work/
 	3.1 Rikirobot_setup源码 树莓派Work目录下拷贝。
 		3.1.1 ./dev_tools_install.sh	开发工具依赖包
+			把ros_pack里面的echo "add ps3"及以下的注释去掉
 		3.1.2 ./ros_packages_install.sh	源码依赖包
 		3.1.3 ./rikihost_network.sh	ROS网络环境设置
 
